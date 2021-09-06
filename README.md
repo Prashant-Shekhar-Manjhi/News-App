@@ -1,1 +1,1 @@
-News Headlines Application is build only for Learning purpose.
+News Headlines Application is build using Recycler view only for Learning purpose.
