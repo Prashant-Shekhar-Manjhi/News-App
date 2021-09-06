@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="title">Title:</string>
+    <string name="description">Description:</string>
+    <string name="news_headlines">News Headlines</string>
+
+
+</resources>
